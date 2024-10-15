@@ -1,0 +1,18 @@
+# JetBrains IDE
+.idea/
+*.iml
+
+# Dependency directories
+node_modules/
+
+# Environment variables
+.env
+
+# Compiled output
+/dist
+/tmp
+
+# Misc
+.DS_Store
+Thumbs.db
+*.log
